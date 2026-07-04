@@ -14,6 +14,10 @@
 
 @[biuki4](https://github.com/biuki4)
 
+@SEEGIN
+
+@[Su Shuang](https://github.com/shusoyo)
+
 ---
 
 *最后更新：2026 年 7 月*
