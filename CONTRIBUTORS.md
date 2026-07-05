@@ -18,6 +18,14 @@
 
 @[Su Shuang](https://github.com/shusoyo)
 
+@[pzy0623](https://github.com/nowaylueluelue)
+
+@[Believemys](https://github.com/Believemys)
+
+@[davepearl](https://github.com/davepearl)
+
+@迪迦
+
 ---
 
 *最后更新：2026 年 7 月*

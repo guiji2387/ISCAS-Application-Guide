@@ -73,6 +73,10 @@
 - [山师科班一战上岸国科大软件所](./上岸经验分享/山师科班一战上岸国科大软件所.md) — ICPC 银牌，6 月末启动，李范全书 + 自学的数学路线，袁春风的计组补充，408 各科针对性策略
 - [双非一战上岸国科大软件所（短篇）](./上岸经验分享/双非一战上岸国科大软件所（短篇）.md) — 2.8 绩点，蓝桥杯+百度之星+开源操作系统训练营，毕设聚焦 seL4 形式化验证，复试做了依赖类型语言内核
 - [厦大一战高分上岸国科大软件所](./上岸经验分享/厦大一战高分上岸国科大软件所.md) — 985 科班 400+ 高分上岸，机器人方向毕设，408 回归真题策略，LLM 辅助学习心得
+- [江汉大学345顺子分数一战上岸国科大软件所](./上岸经验分享/江汉大学345顺子分数一战上岸国科大软件所.md) — 四非科班，智软南京学院专硕上岸，国奖+市长奖学金，复试一定要多准备
+- [985一战400+上岸国科大软件所（Dave）](./上岸经验分享/985一战400+上岸国科大软件所（Dave）.md) — 985 科班 400+，保研边缘选手，每天 5h+ 的适中投入策略，武忠祥数学 + 王道 408 + 情绪管理心得，数二150        👑
+- [双非零基础一战上岸国科大软件所（TTao）](./上岸经验分享/双非零基础一战上岸国科大软件所（TTao）.md) — 江西双非零基础起步，四级四次才过，4 月启动，🐙三十讲+1000 题，390+，决定成绩的是执行力和坚持
+- [四非一本一战上岸国科大软件所](./上岸经验分享/四非一本一战上岸国科大软件所.md)— 2.8 绩点，320+ 分专硕，两篇北核+专利+大创，复试靠科研翻盘
 
 > 📢 **经验分享持续征集中**，欢迎各位上岸同学[投稿](经验分享投稿模板.md)你的备考故事！
 
@@ -101,6 +105,19 @@
   <a href="https://github.com/shusoyo">
     <img src="https://github.com/shusoyo.png?size=100" width="70" height="70" alt="Su Shuang" style="border-radius:50%; margin: 0 8px;"/>
   </a>
+  <a href="https://github.com/nowaylueluelue">
+    <img src="https://github.com/nowaylueluelue.png?size=100" width="70" height="70" alt="pzy0623" style="border-radius:50%; margin: 0 8px;"/>
+  </a>
+  <a href="https://github.com/Believemys">
+    <img src="https://github.com/Believemys.png?size=100" width="70" height="70" alt="Believemys" style="border-radius:50%; margin: 0 8px;"/>
+  </a>
+  <a href="https://github.com/davepearl">
+    <img src="https://github.com/davepearl.png?size=100" width="70" height="70" alt="davepearl" style="border-radius:50%; margin: 0 8px;"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>SEEGIN</strong> · <strong>迪迦</strong>
 </p>
 
 > 🙏 _感谢每一位愿意花时间整理经验、回答问题的同学，你们的分享是后来者最宝贵的财富。_
